@@ -1,0 +1,2 @@
+# TamaZoo
+Estensione di TamaGotchi
