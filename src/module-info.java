@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author bagli
- *
- */
-module TamaZoo {
-}
